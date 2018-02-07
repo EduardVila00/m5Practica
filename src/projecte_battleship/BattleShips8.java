@@ -20,7 +20,7 @@ public class BattleShips8 {
         Scanner sc = new Scanner(System.in);
         String[][] dades = new String[11][11];
         String[][] mapa = new String[11][11];
-        System.out.println("Alex puta");
+        System.out.println("Alex");
         boolean shipBoolean = false;
         int shipTamany = 0;
         boolean direccioBoolean = false;
