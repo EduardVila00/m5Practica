@@ -18,8 +18,8 @@ public class BattleShips8 {
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String[][] dades = new String[11][11];
-        String[][] mapa = new String[11][11];
+        String[][] dades = new String[112][11];
+        String[][] mapa = new String[112][11];
         System.out.println("hello");
         boolean shipBoolean = false;
         int shipTamany = 0;
