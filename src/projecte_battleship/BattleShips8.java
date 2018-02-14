@@ -21,6 +21,7 @@ public class BattleShips8 {
         String[][] dades = new String[112][11];
         String[][] mapa = new String[112][11];
         System.out.println("hello");
+        System.out.println("hello2");
         boolean shipBoolean = false;
         int shipTamany = 0;
         boolean direccioBoolean = false;
